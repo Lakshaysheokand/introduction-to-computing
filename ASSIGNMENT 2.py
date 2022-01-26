@@ -47,7 +47,7 @@ print(" ")
 Name = "Lakshay Sheokand"
 SID = "21105046"
 Department_name = "ECE"
-CGPA = "10"
+CGPA = "9.9"
 
 # Printing statements in the given format.
 print(f" Hey, {Name.title()} here! \n My SID is {SID} \n I am from {Department_name} and my CGPA is {CGPA}")
