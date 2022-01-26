@@ -29,7 +29,7 @@ TO PRINT A STATEMENT IN GIVEN FORMAT.
  
  Hey, Lakshay Sheokand here! 
  My SID is 21105046 
- I am from ECE and my CGPA is 10
+ I am from ECE and my CGPA is 9.9
 
 ---------------------------------Question #3----------------------------------
  
