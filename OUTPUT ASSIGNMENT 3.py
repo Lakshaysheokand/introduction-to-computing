@@ -77,7 +77,6 @@ Fibonnaci sequence with 19 terms
 1597
 2584
 Average of total 19 terms of sequence is 356.0
-END
 
 ---------------------------------Question #8----------------------------------
  
