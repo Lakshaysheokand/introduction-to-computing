@@ -19,7 +19,6 @@ print("")
 
 print("---------------------------------Question #2----------------------------------")
 print(" ")
-print("SOL 2. :- Solution the problem of tower of Hanoi with three disks.")
 print(" ")
 #input rows
 n = int(input("Enter the number of rows in Pascal's Triangle: "))
@@ -130,7 +129,6 @@ print("")
 #####################################################################################
 
 print("---------------------------------QUESTION #5----------------------------------")
-print(" ")
 print(" ")
 class Employee:
     def __init__(self, name, salary):
