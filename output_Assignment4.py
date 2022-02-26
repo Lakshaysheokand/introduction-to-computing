@@ -17,7 +17,6 @@ Move Disk 1 from A to C
 
 ---------------------------------Question #2----------------------------------
  
-SOL 2. :- Solution the problem of tower of Hanoi with three disks.
  
 Enter the number of rows in Pascal's Triangle: 7
 
